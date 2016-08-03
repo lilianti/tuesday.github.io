@@ -1,6 +1,6 @@
 # tuesday.github.io
 ###Octdrey [Catburn](www.google.com)
-![A representation of Octdrey Catburn](http://octodex.github.com/images/octdrey$
+![A representation of Octdrey Catburn](http://octodex.github.com/images/octdrey-catburn.jpg)
 
 Header 1 | Header 2
 ---------|--------
